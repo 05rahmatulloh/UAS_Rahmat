@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Burger",
+    "image": "https://images.unsplash.com/photo-1550547660-d9450f859349?w=600",
+    "description": "Burger lezat dengan daging sapi premium, keju leleh, dan sayuran segar."
+  },
+  {
+    "id": 2,
+    "name": "Drink",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&w=600&q=80",
+    "description": "Minuman segar untuk menemani waktu santai Anda."
+  },
+  {
+    "id": 3,
+    "name": "Pasta",
+    "image": "https://images.unsplash.com/photo-1529042410759-befb1204b468?w=600",
+    "description": "Pasta creamy dengan saus carbonara dan taburan keju parmesan."
+  }
+]
